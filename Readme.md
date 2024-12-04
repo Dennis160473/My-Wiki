@@ -13,3 +13,16 @@
 
 ![Internet](image.png)
 
+## Pfade
+- `absoluter Pfad` : Ein absoluter Pfad beschreibt den Speicherort vom Stammverzeichnis aus.
+- `relativer Pfad` : Relative Pfade beschreiben die Position einer Datei relativ zu der Datei oder dem Ordner, in dem man sich gerade befindet. Damit sind sie komplett unabhängig von der Datenstruktur des Computersystemes, auf dem sie sich befinden.
+
+## Entwicklungsumgebung
+- `IDE` : Eine integrierte Entwicklungsumgebung (IDE) ist eine Softwareanwendung, die Programmierern dabei hilft, Softwarecode effizient zu entwickeln.  Ist eine Sammlung von Verfahren und Tools, die zum Entwickeln, Testen und Debuggen einer Anwendung, eines Programms oder einer Website entwickelt wurden.
+
+## Software vs. Hardware vs. Betriebssystem
+- `Software` : Der Sammelbegriff Software beschreibt sämtliche nicht physische Bestandteile eines Computers, Computernetzwerks oder mobilen Geräts. Gemeint sind die Programme und Anwendungen, die den Computer für den Nutzer funktionstüchtig machen.
+- `Hardware` : Die Hardware umfasst die physischen Komponenten, wie z. B. Mikroprozessorchips und digitale Speicher im Computer, sowie externe, vom Computer gesteuerte Geräte.
+- `Betriebssystem` : Damit ein Computer arbeiten kann, braucht er ein Betriebssystem. Das ist die Verwaltungsstelle des Computers. Das Betriebssystem sorgt zum Beispiel dafür, dass Programme geladen und ausgeführt werden, dass die angeschlossenen Geräte funktionieren oder E-Mails verschickt werden können.
+
+
