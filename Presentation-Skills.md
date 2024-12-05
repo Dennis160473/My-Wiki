@@ -23,7 +23,7 @@ Füllwörter wie „äh“ und „ähm“ lassen dich nicht gerade eloquent und 
 Versuche stattdessen bewusst Sprechpausen einzulegen.
 <br></br>
 
-## <u> Einstiegsmöglichkeiten</u>
+## Einstiegsmöglichkeiten
 
 ### Der interaktive Einstieg
 Interaktiv bedeutet in diesem Fall, dass du dein Publikum gleich zu Beginn in deine Präsentation einbeziehst. Dies kann dir beispielsweise durch eine direkte Frage gelingen, die von jedem Anwesenden mit einem klaren Ja oder Nein beantwortet werden kann: „Sind Sie mit dem Auto angereist?“
