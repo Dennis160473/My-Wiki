@@ -9,7 +9,7 @@ Um eine gelungene Präsentation halten zu können, ist eine lückenlose Vorberei
 - Gestalte deine Folien (Mindmaps, Zeichnungen, Bilder etc.).
 - Übe deinen Vortrag (vor Testpublikum) ein.
 
-<bold>Tipp: Zeichne deine Probedurchläufe mit einer Kamera auf.</bold>
+<b>Tipp: Zeichne deine Probedurchläufe mit einer Kamera auf.</b>
 
 
 
