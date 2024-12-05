@@ -39,16 +39,17 @@ Der nachrichtliche Einstieg strotzt zwar nicht unbedingt vor Originalität, denn
 <b>Tipp:</b> Zum Einstieg in deine Präsentation gibst du deinen Zuhörern eine konkrete Aussicht auf den zu erwartenden Inhalt. Das Publikum sollte genau verstanden haben, worum es dir geht.
 
 ## Präsentation halten
-Grundsätzlich wird eine Präsentation in Einleitung, Hauptteil und Schluss untergliedert.
-Es gilt die Devise: Je einfacher der Aufbau, umso besser!
-Positioniere dich als Experte
-Halte Blickkontakt mit deinem Publikum
-Wähle die richtige (Steh-)Position
-Gestik und Mimik
-Interagiere mit deinem Publikum
-Vermeide Ablenkungen
-Nutze verschiedene Medien
-Sei authentisch und nahbar
-Am Ende deines Vortrags fasst du alle wesentlichen Punkte noch einmal kurz zusammen. Bedenke, dass dein Fazit den Zuhörern besonders lange im Gedächtnis bleiben wird.
+- Grundsätzlich wird eine Präsentation in Einleitung, Hauptteil und Schluss untergliedert.
+- Es gilt die Devise: Je einfacher der Aufbau, umso besser!
+- Positioniere dich als Experte
+- Halte Blickkontakt mit deinem Publikum
+- Wähle die richtige (Steh-)Position
+- Gestik und Mimik
+- Interagiere mit deinem Publikum
+- Vermeide Ablenkungen
+- Nutze verschiedene Medien
+- Sei authentisch und nahbar
+- Am Ende deines Vortrags fasst du alle wesentlichen Punkte noch einmal kurz zusammen. Bedenke, dass dein Fazit den Zuhörern besonders lange im Gedächtnis bleiben wird.
+<br></br>
 
 <b>Fazit:</b> Lampenfieber gehört dazu! Eine gut vorbereitete Präsentation ist jedoch elementar und bringt Sicherheit. 
