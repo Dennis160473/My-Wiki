@@ -10,8 +10,8 @@
 ## Alternative
 - über das Windows Startfenster die Plattform "WSL" öffnen
 - python3 eingeben und mit Enter bestätigen
-
-
+<br></br>
+<br></br>
 # Python WIKI
 ## Datentypen
 
