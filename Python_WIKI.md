@@ -64,4 +64,6 @@ Python Datentypen sind somit die Gestalt oder die Erscheinungsart von Werten. Da
    <td>3.1</td>
   </tr>
 </table>
-Es gibt sechs Datentypen in Python, die Du kennen solltest.
+<b>Es gibt sechs Datentypen in Python, die Du kennen solltest.</b>
+
+
