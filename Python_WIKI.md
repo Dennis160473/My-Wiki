@@ -16,7 +16,7 @@
 ## Datentypen
 ### Definition
 Was sind Datentypen?
-Python Datentypen sind somit die Gestalt oder die Erscheinungsart von Werten. Das können entweder ganze Zahlen, Fließkommazahlen, Zeichenketten, Boolesche Variablen, Listen oder Tupel sein.
+<br></br> Python Datentypen sind somit die Gestalt oder die Erscheinungsart von Werten. Das können entweder ganze Zahlen, Fließkommazahlen, Zeichenketten, Boolesche Variablen, Listen oder Tupel sein.
 
 
 
