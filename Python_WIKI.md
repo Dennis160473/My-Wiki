@@ -67,3 +67,34 @@ Python Datentypen sind somit die Gestalt oder die Erscheinungsart von Werten. Da
 <b>Es gibt sechs Datentypen in Python, die Du kennen solltest.</b>
 
 
+# Variablen
+Variablen in Python sind benannte Speicherorte, die verwendet werden, um Daten zu speichern. Sie ermöglichen es dir, Werte zu speichern und später im Programm darauf zuzugreifen oder sie zu ändern. In Python musst du eine Variable nicht explizit deklarieren, bevor du ihr einen Wert zuweist. Du kannst einfach einen Namen für die Variable wählen und ihr einen Wert zuweisen.
+Variablen können verschiedene Datentypen annehmen, wie Zahlen, Strings, Listen und viele mehr. Sie sind ein grundlegendes Konzept in der Programmierung und helfen dabei, Daten zu organisieren und zu verwalten.
+## Bsp.: firmenname = “Techstarter GmbH” oder punktzahl = 100
+
+# Printbefehl
+Mit dem Print-Befehl können Sie Zahlen, Buchstaben, Wörter und sogar ganze Sätze im Terminal ausgeben.
+Alternativ können Sie auch Werte, die bei einer Variablen hinterlegt sind, mit dem Print-Befehl ausgeben: "print (a)".
+## Bsp.: print("Hallo liebes Team von " + firmenname + ", ich möchte gerne von Euch lernen.")
+
+# Funktionen
+Eine Funktion ist eine benannte Sequenz von Anweisungen, die eine bestimmte Aufgabe erfüllen.
+Durch die Verwendung von Funktionen können wir unseren Code organisierter und lesbarer gestalten.
+In Python werden Funktionen mit dem reservierten Schlüsselwort “def” definiert, gefolgt vom Funktionennamen und Klammern, die die Parameter der Funktion enthalten.
+Die Anweisungen innerhalb der Funktion werden eingerückt und durch Einrückungen von der Hauptcodebasis getrennt.
+## Bsp:.: def begruessung():
+              print(“Hallo, willkommen und schön dass du hier bist :)!”)
+
+              begruessung()
+
+
+              
+
+
+
+
+
+
+
+
+
